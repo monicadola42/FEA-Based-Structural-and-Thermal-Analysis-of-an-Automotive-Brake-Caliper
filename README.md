@@ -118,7 +118,6 @@ This indicates that refining the mesh from 10 mm to 5 mm changed the maximum tem
 
 ## Project Structure
 
-```text
 FEA_Brake_Caliper_ANSYS/
 │
 ├── README.md
@@ -131,11 +130,11 @@ FEA_Brake_Caliper_ANSYS/
 │   ├── 01_cad_geometry.png
 │   ├── 02_static_equivalent_stress.png
 │   ├── 03_static_total_deformation.png
-│   └── 04_thermal_temperature_5mm.png
+│   ├── 04_thermal_temperature_5mm.png
+│   └── 05_thermal_temperature_10mm.png
 │
 └── results/
     └── results_summary.md
-```
 
 ## Engineering Note
 
