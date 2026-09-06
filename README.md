@@ -117,7 +117,7 @@ This indicates that refining the mesh from 10 mm to 5 mm changed the maximum tem
 - The thermal mesh refinement changed the maximum temperature by only **2.04%**.
 
 ## Project Structure
-
+```text
 FEA_Brake_Caliper_ANSYS/
 │
 ├── README.md
@@ -135,6 +135,7 @@ FEA_Brake_Caliper_ANSYS/
 │
 └── results/
     └── results_summary.md
+```
 
 ## Engineering Note
 
