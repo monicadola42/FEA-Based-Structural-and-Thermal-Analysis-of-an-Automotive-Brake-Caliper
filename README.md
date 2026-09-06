@@ -137,10 +137,3 @@ FEA_Brake_Caliper_ANSYS/
     └── results_summary.md
 ```
 
-## Engineering Note
-
-This is an academic/project-level FEA study using simplified loading and thermal assumptions. The results should therefore be interpreted as simulation-study results rather than certified production-design values.
-
-## Author
-
-**Monica Dola**
